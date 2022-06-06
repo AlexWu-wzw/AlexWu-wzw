@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/NewConformanceChecker/lib/xmlpull-1.1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NewConformanceChecker/lib/ProM5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NewConformanceChecker/lib/xpp3-1.1.4c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NewConformanceChecker/lib/ProM-Plugins.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NewConformanceChecker/lib/PetriNets.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NewConformanceChecker/lib/OpenXES.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NewConformanceChecker/lib/ProM-models-5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NewConformanceChecker/lib/ProM-Models.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NewConformanceChecker/lib/guava-12.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NewConformanceChecker/lib/OpenXES-XStream.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NewConformanceChecker/lib/ProM-Contexts.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NewConformanceChecker/lib/ProM-Framework-6.9.97.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NewConformanceChecker/lib/OpenXES-20181205.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
